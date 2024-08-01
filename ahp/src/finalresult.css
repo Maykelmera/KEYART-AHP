@@ -1,0 +1,19 @@
+.buttonConfirm{
+    justify-content:center;
+    margin-left:auto;
+}
+.textClass{
+    text-align: center;
+}
+.priority-text{
+    text-align: center;
+}
+.chartCenter{
+    display: flex;
+    justify-content: center;
+    margin-top: 6%;
+}
+
+.centreContent{
+  text-align: center;
+}
